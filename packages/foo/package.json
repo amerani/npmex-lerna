@@ -1,0 +1,14 @@
+{
+  "name": "@npmex/lerna-foo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Alek Merani",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@npmex/lerna-bar": "^0.1.0"
+  }
+}
